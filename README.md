@@ -1,2 +1,2 @@
 # ML_cohort
-This repository contains files for a guided machine learning project
+This repository contains files for the pre-requisites of a guided machine learning project
